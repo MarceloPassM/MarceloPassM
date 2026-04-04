@@ -65,7 +65,7 @@ foco:        Full Stack | Analise de Dados
 ---
 
 ## 🚀 Projetos em destaque
-
+<!--
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [📦 Projeto A](https://github.com/SEU_USERNAME/projeto-a) | Descrição curta do projeto | Python, FastAPI |
@@ -73,12 +73,12 @@ foco:        Full Stack | Analise de Dados
 | [🤖 Projeto C](https://github.com/SEU_USERNAME/projeto-c) | Descrição curta do projeto | Java, Spring |
 
 ---
-
+-->
 ## 📫 Contato
 
 📧 Email: marcelo.passamaim@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/marcelo-passamai-marques/  
-🐙 GitHub: https://github.com/MarceloPassM  
+🐙 Whatsapp: https://api.whatsapp.com/send/?phone=5527995830853
 
 ---
 
