@@ -63,9 +63,9 @@ foco:        Full Stack | Analise de Dados
 
 
 ---
-
-## 🚀 Projetos em destaque
 <!--
+## 🚀 Projetos em destaque
+
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [📦 Projeto A](https://github.com/SEU_USERNAME/projeto-a) | Descrição curta do projeto | Python, FastAPI |
