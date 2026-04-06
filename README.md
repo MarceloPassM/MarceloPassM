@@ -50,7 +50,7 @@ foco:        Full Stack | Analise de Dados
 ## 🗄️ Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 </p>
 
 ---
@@ -63,12 +63,13 @@ foco:        Full Stack | Analise de Dados
 
 
 ---
-<!--
+
 ## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [📦 Projeto A](https://github.com/SEU_USERNAME/projeto-a) | Descrição curta do projeto | Python, FastAPI |
+[📊 Analisador de Gastos Pessoais](https://github.com/MarceloPassM/Analise_Financeira) | Pipeline de análise exploratória de despesas pessoais a partir de arquivos CSV | Python, Pandas, Matplotlib, Seaborn |
+<!--
 | [🌐 Projeto B](https://github.com/SEU_USERNAME/projeto-b) | Descrição curta do projeto | React, Node.js |
 | [🤖 Projeto C](https://github.com/SEU_USERNAME/projeto-c) | Descrição curta do projeto | Java, Spring |
 
