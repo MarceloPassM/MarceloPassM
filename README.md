@@ -69,7 +69,7 @@ foco:        Full Stack | Analise de Dados
 | Projeto | Descrição | Stack |
 |---|---|---|
 [📊 Analisador de Gastos Pessoais](https://github.com/MarceloPassM/Analise_Financeira) | Pipeline de análise exploratória de despesas pessoais a partir de arquivos CSV | Python, Pandas, Matplotlib, Seaborn |
-
+|---|---|---|
 | [⚽ Análises Estatísticas do Brasileirão](https://github.com/MarceloPassM/Brasileirao_Analises) | Dashboard interativo com análise histórica do Campeonato Brasileiro Série A (2003–2024) | Python, Streamlit, DuckDB, Plotly, Pandas |
 <!--
 | [🤖 Projeto C](https://github.com/SEU_USERNAME/projeto-c) | Descrição curta do projeto | Java, Spring |
