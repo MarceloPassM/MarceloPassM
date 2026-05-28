@@ -11,13 +11,13 @@
 </div>
 <div> <br> </div>
 
-🎓 Estudante de Ciência da Computação na UVV  
-💻 Focado em desenvolvimento de software e banco de dados  
-🚀 Buscando oportunidade de estágio em TI  
+Estudante de Ciência da Computação na UVV  
+Focado em desenvolvimento de software e banco de dados  
+Buscando oportunidade de estágio em TI  
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou estudante de Ciência da Computação com interesse em desenvolvimento e resolução de problemas reais através da tecnologia.  
 Tenho experiência acadêmica com projetos práticos e estou sempre buscando evoluir minhas habilidades.
@@ -31,7 +31,7 @@ foco:        Full Stack | Analise de Dados
 
 ---
 
-## 🧠 Linguagens de Programação
+## Linguagens de Programação
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,ts" />
@@ -39,7 +39,7 @@ foco:        Full Stack | Analise de Dados
 
 ---
 
-## ⚙️ Frameworks e Bibliotecas
+## Frameworks e Bibliotecas
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
@@ -47,7 +47,7 @@ foco:        Full Stack | Analise de Dados
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,supabase" />
@@ -55,7 +55,7 @@ foco:        Full Stack | Analise de Dados
 
 ---
 
-## 🛠️ Ferramentas e Plataformas
+## Ferramentas e Plataformas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode," />
@@ -64,24 +64,24 @@ foco:        Full Stack | Analise de Dados
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-[📊 Analisador de Gastos Pessoais](https://github.com/MarceloPassM/Analise_Financeira) | Pipeline de análise exploratória de despesas pessoais a partir de arquivos CSV | Python, Pandas, Matplotlib, Seaborn |
-[⚽ Análises Estatísticas do Brasileirão](https://github.com/MarceloPassM/Brasileirao_Analises) | Dashboard interativo com análise histórica do Campeonato Brasileiro Série A (2003–2024) | Python, Streamlit, DuckDB, Plotly, Pandas |
+[Analisador de Gastos Pessoais](https://github.com/MarceloPassM/Analise_Financeira) | Pipeline de análise exploratória de despesas pessoais a partir de arquivos CSV | Python, Pandas, Matplotlib, Seaborn |
+[Análises Estatísticas do Brasileirão](https://github.com/MarceloPassM/Brasileirao_Analises) | Dashboard interativo com análise histórica do Campeonato Brasileiro Série A (2003–2024) | Python, Streamlit, DuckDB, Plotly, Pandas |
 <!--
 | [🤖 Projeto C](https://github.com/SEU_USERNAME/projeto-c) | Descrição curta do projeto | Java, Spring |
 
 ---
 -->
-## 📫 Contato
+## Contato
 
-📧 Email: marcelo.passamaim@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/marcelo-passamai-marques/  
-🐙 Whatsapp: https://api.whatsapp.com/send/?phone=5527995830853
+Email: marcelo.passamaim@gmail.com  
+LinkedIn: https://www.linkedin.com/in/marcelo-passamai-marques/  
+Whatsapp: https://api.whatsapp.com/send/?phone=5527995830853
 
 ---
 
-⭐ Sempre aberto a aprender e colaborar em projetos!
+Sempre aberto a aprender e colaborar em projetos!
 
